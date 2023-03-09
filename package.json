@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index_kino.js"
+    "start": "node index_kino_invise.js"
   },
   "author": "",
   "license": "ISC",
